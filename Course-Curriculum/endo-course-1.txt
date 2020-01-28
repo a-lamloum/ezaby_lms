@@ -1,0 +1,46 @@
+Section..
+ units
+ quiz
+
+---------------------------------------------- 
+Blood Glucose Regulators ( BGR )
+ 
+ Introduction to Diabetes 
+ Quiz 1: Insulin types 
+ Introduction 
+ Types of Insulin 
+ Insulin Regimens 
+ Insulin Stability 
+ Insulin concentrations 
+ Comparison between Levemir, Lantus and Tresiba 
+ Comparison between Lantus and Toujeo 
+ Tresiba Advantage 
+ Vials, Penfills and Prefilled Pens 
+ Insulin reusable pens 
+ GLP-1 analogues 
+ Amylin analogue 
+ Glucagon 
+ 
+Ca+2 Regulators
+ 
+ Introduction 
+ Hormonal Drugs 
+ Non Hormonal Drugs 
+ Quiz 2 
+ 
+Reproductive Hormones
+ 
+ Introduction 
+ GnRH related drugs 
+ FSH and LH related drugs 
+ Gonadal hormones related drugs 
+ Quiz 3 
+ 
+Miscellaneous 
+ 
+ Growth Hormone ( GH ) 
+ Anti-diuretic hormone ( ADH ) 
+ Oxytocine 
+ Somatostatin 
+ Adrenocorticotropic hormone ( ACTH ) 
+ Quiz 4 
