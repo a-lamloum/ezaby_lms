@@ -1,3 +1,4 @@
+
 # *ezaby_lms*
 
 Good morning/afternoon/evening Dr ^_^. 
@@ -14,7 +15,7 @@ you will find the tested zip file [here](#).
 
 In this page you will learn about the following 
 - Menu Setup
-- [Sidebars](https://vibethemes.github.io/wplms-docs/admin-guide.html#wplms-sidebars)
+- Sidebars
 - Widgets
 - PageBuilder & Visual Composer
 - Vibe Options Panel
