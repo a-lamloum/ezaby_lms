@@ -14,7 +14,7 @@ you will find the tested zip file [here](#).
 
 In this page you will learn about the following 
 - Menu Setup
-- Sidebars
+- [Sidebars](https://vibethemes.github.io/wplms-docs/admin-guide.html#wplms-sidebars)
 - Widgets
 - PageBuilder & Visual Composer
 - Vibe Options Panel
