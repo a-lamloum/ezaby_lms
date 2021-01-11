@@ -41,7 +41,7 @@ In this page you will learn about the following
 # 2 instructor section <a name="inst"> </a>
 ### 2.1 Course page Overview
 ##### 2.1.1 A typical course page contain header and body and footer as following: 
-  ###### **header**
+  ##### **header**
   a. course cover 
   b. course title 
   c. Course instructor 
@@ -49,29 +49,29 @@ In this page you will learn about the following
   ![course header](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/figure2.1.1.PNG)
 
   
-  ######**body**
+  ##### **body**
   <br>
   **a. Course Description**
   
   ![course Description](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/2.1.2.PNG)
   
-  **b. Course button
+  **b. Course button**
   
   ![course button](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/course%20button.PNG)
   
-  **c. Course curreculum
+  **c. Course curreculum**
   
   ![course header](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/Course%20currecullum.PNG)
   
-  **d. Course reviews
+  **d. Course reviews**
   
   ![course header](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/Course%20review.PNG)
   
-  **e. Enrolled students 
+  **e. Enrolled students**
   
   ![course header](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/student%20counts.PNG)
   
-  **f. Related courses 
+  **f. Related courses**
   
   ![course header](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/related%20courses.PNG)
 
