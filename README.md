@@ -51,7 +51,8 @@ In this page you will learn about the following
   
   ##### **body**
   <br>
-  **a. Course Description**
+
+**a. Course Description**
   
   ![course Description](https://github.com/a-lamloum/ezaby_lms/blob/master/docs/2.1.2.PNG)
   
